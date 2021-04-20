@@ -5,6 +5,8 @@ tengo 28 anos
 aunque en camara no parece tan alta es muy alta 
 tiene un perro llamado django
 
+probando ssh
+
 esto es un cambio
 \Ama a nelson
 tengo dos hermanos 
